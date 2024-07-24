@@ -1,2 +1,2 @@
 # WDs_candidate
-This is a  candidate catalog.
+WDs_candidate.zip is a  candidate catalog.
